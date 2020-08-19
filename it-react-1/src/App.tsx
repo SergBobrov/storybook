@@ -14,6 +14,8 @@ function App() {
             <Accordion titleValue={"Users"}/>
             <Rating value={4}/>
         </div>
+
+
     );
 }
 
