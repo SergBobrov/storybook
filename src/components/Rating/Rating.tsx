@@ -9,40 +9,20 @@ type RatingPropsValue = {
 export function Rating(props: RatingPropsValue) {
     console.log("Accordion rendered")
 
-    if (props.value === 4) {
+
         return (
             <div>
-                <Star selected={true}/>
-                <Star selected={true}/>
-                <Star selected={true}/>
-                <Star selected={true}/>
-                <Star selected={false}/>
-            </div>
-        )
-    } else if (props.value === 3) {
-        return (
-            <div>
-                <Star selected={true}/>
-                <Star selected={true}/>
-                <Star selected={true}/>
-                <Star selected={false}/>
-                <Star selected={false}/>
-            </div>
-        )
-    } else {
-        return (
-            <div>
-                <Star selected={false}/>
-                <Star selected={false}/>
-                <Star selected={false}/>
-                <Star selected={false}/>
-                <Star selected={false}/>
+                <Star selected={props.value>0}/>
+                <Star selected={props.value>1}/>
+                <Star selected={props.value>2}/>
+                <Star selected={props.value>3}/>
+                <Star selected={props.value>4}/>
             </div>
         )
     }
 
 
-}
+
 
 type StarPropsType = {
     selected : boolean

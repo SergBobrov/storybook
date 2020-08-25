@@ -5,7 +5,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="762aca97-a018-43cd-8380-105d70b04d3c" name="Default Changelist" comment="first commint" />
+    <list default="true" id="762aca97-a018-43cd-8380-105d70b04d3c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/OnnOff/OnOff.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Acrordion/Acordion.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Acrordion/Acordion.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Rating/Rating.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Rating/Rating.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +25,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/App.tsx" root0="SKIP_INSPECTION" />
@@ -81,6 +87,7 @@
       <workItem from="1597823220651" duration="480000" />
       <workItem from="1597823712629" duration="423000" />
       <workItem from="1597825387972" duration="10000" />
+      <workItem from="1598363694904" duration="5162000" />
     </task>
     <task id="LOCAL-00001" summary="first commint">
       <created>1597823578633</created>
@@ -110,7 +117,21 @@
       <option name="project" value="LOCAL" />
       <updated>1597823895252</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="first commint">
+      <created>1598363743946</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1598363743946</updated>
+    </task>
+    <task id="LOCAL-00006" summary="first commint">
+      <created>1598363958285</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1598363958285</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +192,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="535" y="219" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1597671873782" />
+    <state x="379" y="0" key="CommitChangelistDialog2" timestamp="1598363956520">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="379" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1598363956520" />
     <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1597825395095">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -179,38 +204,38 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="593" y="337" key="Github.CreateGistDialog/0.0.1536.834@0.0.1536.834" timestamp="1597823791041" />
-    <state x="647" y="315" key="Github.ShareDialog" timestamp="1597824003906">
+    <state x="647" y="315" key="Github.ShareDialog" timestamp="1598363924927">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="647" y="315" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1597824003906" />
-    <state width="1515" height="202" key="GridCell.Tab.0.bottom" timestamp="1597824135784">
+    <state x="647" y="315" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1598363924927" />
+    <state width="1515" height="184" key="GridCell.Tab.0.bottom" timestamp="1598363846042">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="202" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1597824135784" />
-    <state width="1515" height="202" key="GridCell.Tab.0.center" timestamp="1597824135784">
+    <state width="1515" height="184" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1598363846042" />
+    <state width="1515" height="184" key="GridCell.Tab.0.center" timestamp="1598363846042">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="202" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1597824135784" />
-    <state width="1515" height="202" key="GridCell.Tab.0.left" timestamp="1597824135784">
+    <state width="1515" height="184" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1598363846042" />
+    <state width="1515" height="184" key="GridCell.Tab.0.left" timestamp="1598363846042">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="202" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1597824135784" />
-    <state width="1515" height="202" key="GridCell.Tab.0.right" timestamp="1597824135784">
+    <state width="1515" height="184" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1598363846042" />
+    <state width="1515" height="184" key="GridCell.Tab.0.right" timestamp="1598363846042">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="202" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1597824135784" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1597824102665">
+    <state width="1515" height="184" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1598363846042" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1598363959583">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1597824102665" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1598363959583" />
     <state x="492" y="33" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597670100483">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="492" y="33" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.834@0.0.1536.834" timestamp="1597670100483" />
-    <state x="586" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597823327743">
+    <state x="586" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598365034872">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="586" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1597823327743" />
+    <state x="586" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1598365034872" />
     <state x="478" y="16" width="670" height="801" key="find.popup" timestamp="1597824094212">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
