@@ -51,7 +51,7 @@ function OnOff(props: PropsType) {
                 setOn(false)
             }}>Off
             </div>
-            <div style={indicatorStyle}><span>x</span></div>
+            <div style={indicatorStyle}><span>ops</span></div>
         </div>
     )
 }
