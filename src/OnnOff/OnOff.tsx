@@ -4,8 +4,10 @@ type PropsType = {}
 
 
 function OnOff(props: PropsType) {
+    console.log("rendering");
 
     let [on, setOn] = useState(false);
+    console.log(on);
 
     const onStyle = {
         width: "30px",
