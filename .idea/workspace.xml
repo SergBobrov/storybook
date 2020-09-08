@@ -6,12 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762aca97-a018-43cd-8380-105d70b04d3c" name="Default Changelist" comment="first commint">
-      <change afterPath="$PROJECT_DIR$/src/components/UncontrolledAcordion/UncontrolledAcordion.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OnnOff/OnOff.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/OnnOff/OnOff.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Rating/Rating.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UncontrolledRating/UncontrolledRating.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UncontrolledRating/UncontrolledRating.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UncontrolledRating/UncontrolledRating.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +43,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="ts.external.directory.path" value="G:\dev\study\incubator\projects\01-first-TSproject\it-react-1\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="C:\Users\Sergg\WebstormProjects\it-react-1\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -94,6 +89,7 @@
       <workItem from="1597823220651" duration="480000" />
       <workItem from="1597823712629" duration="423000" />
       <workItem from="1597825387972" duration="10000" />
+      <workItem from="1599574487139" duration="7055000" />
     </task>
     <task id="LOCAL-00001" summary="first commint">
       <created>1597823578633</created>
