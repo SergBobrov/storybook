@@ -6,7 +6,7 @@ type PropsType = {
 }
 
 
-function OnOff(props: PropsType) {
+export function OnOff(props: PropsType) {
 
 /*    let [on, setOn] = useState(false);
     console.log(on);*/
@@ -56,4 +56,3 @@ function OnOff(props: PropsType) {
     )
 }
 
-export default OnOff;

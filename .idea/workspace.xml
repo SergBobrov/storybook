@@ -5,14 +5,22 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="762aca97-a018-43cd-8380-105d70b04d3c" name="Default Changelist" comment="first commint">
-      <change afterPath="$PROJECT_DIR$/src/components/OnnOff/UncontrolledOnOff.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Rating/Rating.tsx" afterDir="false" />
+    <list default="true" id="762aca97-a018-43cd-8380-105d70b04d3c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Acrordion/Acordion.stories.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/OnnOff/OnOff.stories.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Rating/Rating.stories.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UncontrolledAcordion/UncontrolledAcordion.stories.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UncontrolledOnOff/UncontrolledOnOff.stories.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UncontrolledRating/UncontrolledRating.stories.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stories/input.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Acrordion/Acordion.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Acrordion/Acordion.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/OnnOff/OnOff.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/OnnOff/OnOff.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/UncontrolledAcordion/UncontrolledAcordion.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UncontrolledAcordion/UncontrolledAcordion.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/OnnOff/UncontrolledOnOff.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UncontrolledOnOff/UncontrolledOnOff.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/UncontrolledRating/UncontrolledRating.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UncontrolledRating/UncontrolledRating.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +50,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/OnnOff" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/stories" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -50,23 +58,26 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="ts.external.directory.path" value="C:\Users\Sergg\WebstormProjects\it-react-1\node_modules\typescript\lib" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="G:\dev\study\incubator\projects\yell_playlist\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\dev\study\incubator\projects\yell_playlist\src\stories" />
       <recent name="G:\dev\study\incubator\projects\yell_playlist\src\components\UncontrolledRating" />
-      <recent name="G:\dev\study\incubator\projects\yell_playlist\src\components" />
-      <recent name="G:\dev\study\incubator\projects\01-first-TSproject\it-react-1\src\components\Rating" />
-      <recent name="G:\dev\study\incubator\projects\01-first-TSproject\it-react-1\src\components" />
+      <recent name="G:\dev\study\incubator\projects\yell_playlist\src\components\UncontrolledOnOff" />
+      <recent name="G:\dev\study\incubator\projects\yell_playlist\src\components\UncontrolledAcordion" />
+      <recent name="G:\dev\study\incubator\projects\yell_playlist\src\components\Acrordion" />
     </key>
     <key name="es6.move.members.recent.items">
       <recent name="G:\dev\study\incubator\projects\01-first-TSproject\it-react-1\src\components\Rating.tsx" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Sergg\WebstormProjects\it-react-1\src\components\OnnOff" />
-      <recent name="C:\Users\Sergg\WebstormProjects\it-react-1\src\components\Rating" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\dev\study\incubator\projects\yell_playlist\src\components\UncontrolledOnOff" />
+      <recent name="G:\dev\study\incubator\projects\yell_playlist\src\components\UncontrolledRating" />
       <recent name="G:\dev\study\incubator\projects\yell_playlist\src\components" />
-      <recent name="G:\dev\study\incubator\projects\yell_playlist\src\components\UncontrolledAcordion" />
+      <recent name="G:\dev\study\incubator\projects\01-first-TSproject\it-react-1\src\components\Rating" />
+      <recent name="G:\dev\study\incubator\projects\01-first-TSproject\it-react-1\src\components" />
     </key>
   </component>
   <component name="RunManager">
@@ -98,10 +109,11 @@
       <workItem from="1597823220651" duration="480000" />
       <workItem from="1597823712629" duration="423000" />
       <workItem from="1597825387972" duration="10000" />
-      <workItem from="1599574487139" duration="7055000" />
-      <workItem from="1599581924262" duration="369000" />
-      <workItem from="1599591577989" duration="644000" />
-      <workItem from="1599633770283" duration="8909000" />
+      <workItem from="1599751222764" duration="135000" />
+      <workItem from="1600107306526" duration="853000" />
+      <workItem from="1600169973490" duration="7677000" />
+      <workItem from="1600178118701" duration="987000" />
+      <workItem from="1600179119432" duration="496000" />
     </task>
     <task id="LOCAL-00001" summary="first commint">
       <created>1597823578633</created>
@@ -180,6 +192,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
     <MESSAGE value="first commint" />
     <option name="LAST_COMMIT_MESSAGE" value="first commint" />
   </component>
@@ -192,10 +207,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="535" y="219" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1597671873782" />
-    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1597825395095">
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1599751268257">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1597825395095" />
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1599751268257" />
     <state x="593" y="337" key="Github.CreateGistDialog" timestamp="1597823791041">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -204,34 +219,33 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="647" y="315" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1597824003906" />
-    <state width="1515" height="2" key="GridCell.Tab.0.bottom" timestamp="1599592222030">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1515" height="417" key="GridCell.Tab.0.bottom" timestamp="1600178107223">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599592222030" />
-    <state width="1515" height="2" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1599224752065" />
-    <state width="1515" height="2" key="GridCell.Tab.0.center" timestamp="1599592222030">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1515" height="417" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1600178107223" />
+    <state width="1515" height="417" key="GridCell.Tab.0.center" timestamp="1600178107223">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="2" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599592222030" />
-    <state width="1515" height="2" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1599224752064" />
-    <state width="1515" height="2" key="GridCell.Tab.0.left" timestamp="1599592222030">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1515" height="417" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1600178107223" />
+    <state width="1515" height="417" key="GridCell.Tab.0.left" timestamp="1600178107223">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="2" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599592222030" />
-    <state width="1515" height="2" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1599224752064" />
-    <state width="1515" height="2" key="GridCell.Tab.0.right" timestamp="1599592222030">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1515" height="417" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1600178107223" />
+    <state width="1515" height="417" key="GridCell.Tab.0.right" timestamp="1600178107223">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="2" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599592222030" />
-    <state width="1515" height="2" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1599224752065" />
+    <state width="1515" height="417" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1600178107223" />
     <state x="147" y="66" key="MergeDialog" timestamp="1599223334597">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="147" y="66" key="MergeDialog/0.0.1536.834@0.0.1536.834" timestamp="1599223334597" />
-    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1599591645953">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="277" y="62" key="SettingsEditor" timestamp="1600170148503">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1599591645953" />
+    <state x="277" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1600170148503" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1597824102665">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
     <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1597824102665" />
     <state x="492" y="33" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597670100483">
       <screen x="0" y="0" width="1536" height="834" />
@@ -249,9 +263,5 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="410" y="144" width="700" height="530" key="recent.locations.popup/0.0.1536.834@0.0.1536.834" timestamp="1597670139586" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1599644849817">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1599644849817" />
   </component>
 </project>

@@ -1,10 +1,12 @@
 import React, {useState} from 'react';
 import './App.css';
-import Accordion from "./components/Acrordion/Acordion";
+import {Accordion} from "./components/Acrordion/Acordion";
 import {UncontrolledRating} from "./components/UncontrolledRating/UncontrolledRating";
-import OnOff from "./components/OnnOff/OnOff";
+
 import UncontrolledAccordion from './components/UncontrolledAcordion/UncontrolledAcordion'
 import {Rating, RatingPropsValue, RatingValueType} from './components/Rating/Rating';
+import { OnOff } from './components/OnnOff/OnOff';
+import UncontrolledOnOff from "./components/UncontrolledOnOff/UncontrolledOnOff";
 
 function App() {
     console.log("App rendered")
@@ -18,20 +20,18 @@ function App() {
     return (
         <div className="App">
 
+            <UncontrolledAccordion titleValue={"Menu"}/>
 
-            {/*
+            <UncontrolledRating/>
+
+            <UncontrolledOnOff/>
 
 
-            <UncontrolledAccordion titleValue={"Menu"} />
-            <UncontrolledAccordion titleValue={"Users"} />
-
-            <UncontrolledRating/>*/}
-
-            <OnOff value={value} setOnOffValue={()=> setOnOffValue(!value)}/>
+            <Accordion titleValue={"Menu"} collapsed={accordionCollapsed} onclick={()=> setaccordionCollapsed(!accordionCollapsed)}/>
 
             <Rating value={ratingValue} onStarClick={setRatingValue} />
 
-            <Accordion titleValue={"Menu"} collapsed={accordionCollapsed} onclick={()=> setaccordionCollapsed(!accordionCollapsed)}/>
+            <OnOff value={value} setOnOffValue={()=> setOnOffValue(!value)}/>
 
         </div>
 
