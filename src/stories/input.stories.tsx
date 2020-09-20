@@ -10,7 +10,6 @@ export const UncontrolledInput = () => <input/>
 export const TrackValueOfUncontrolledInput = () => {
     const [value, setValue] = useState("")
     const actualValueHandler = (e: ChangeEvent<HTMLInputElement>) => setValue(e.currentTarget.value)
-
     return (
         <> <input onChange={actualValueHandler}/> - {value} </>
     );
@@ -41,12 +40,21 @@ export const GetValueOfUncontrolledInputByButtonPressAlternative = () => {
 
 
     const save = () => {
-        let el = inputRef.current as HTMLInputElement
-        setValue(el.value)
+        /*let el = inputRef.current as HTMLInputElement
+        setValue(el.value)*/
+
+
+        /*if (inputRef.current) {
+            setValue(inputRef.current?.value);
+            inputRef.current.value = ""
+        }*/
+
+
+        inputRef.current && setValue(inputRef.current?.value)
     };
 
     return (
-        <> <input ref={"inputRef"} id={"inputId"}/>
+        <> <input ref={inputRef}/>
             <button onClick={save}> save</button>
             - {value} </>
     );
