@@ -17,6 +17,13 @@ function App() {
 
     let [value, setOnOffValue] = useState<boolean>(false);
 
+    let items = [
+        {title: "Artem", value: "1"},
+        {title: "Dimych", value: "2"},
+        {title: "Valera", value: "3"},
+        {title: "Ivan", value: "4"},
+    ]
+
     return (
         <div className="App">
 
@@ -27,7 +34,7 @@ function App() {
             <UncontrolledOnOff/>
 
 
-            <Accordion titleValue={"Menu"} collapsed={accordionCollapsed} onclick={()=> setaccordionCollapsed(!accordionCollapsed)}/>
+            <Accordion onClick={(value)=>{ alert(value)}} items={items} titleValue={"Menu"} collapsed={accordionCollapsed} onclick={()=> setaccordionCollapsed(!accordionCollapsed)}/>
 
             <Rating value={ratingValue} onStarClick={setRatingValue} />
 
