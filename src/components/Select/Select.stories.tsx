@@ -10,10 +10,14 @@ export default {
 
 
 export const BaseExample = () => {
+
+    const [value, setValue] = useState('2')
+
+
     return (
         <>
-            <Select onChange={action("Value changed")}
-                    value={'1'}
+            <Select onChange={setValue}
+                    value={value}
                     items={[
                         {value: '1', title: 'Minsk'},
                         {value: '2', title: 'Moskow'},
@@ -26,10 +30,12 @@ export const BaseExample = () => {
 
 
 export const WithoutValue = () => {
+    const [value, setValue] = useState(null)
+
     return (
         <>
-            <Select onChange={action("Value changed")}
-
+            <Select onChange={setValue}
+                    value={value}
                     items={[
                         {value: '1', title: 'Minsk'},
                         {value: '2', title: 'Moskow'},
