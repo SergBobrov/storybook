@@ -16,7 +16,7 @@ export type SelectPropsValue = {
 
 export function Select(props: SelectPropsValue) {
 
-    const [active, setActive] = useState(true)
+    const [active, setActive] = useState(false)
     const [hoveredElementValue, setHoveredElementValue] = useState(props.value)
 
     const selectedItem = props.items.find(i => i.value === props.value);
@@ -45,11 +45,17 @@ export function Select(props: SelectPropsValue) {
 
                     if (pretendentElement) {
                         props.onChange(pretendentElement.value)
-                        break;
+                        return;
                     }
-
                 }
             }
+            if (!selectedItem) {
+                props.onChange(props.items[0].value)
+            }
+        }
+
+        if (e.key === "Enter" || e.key === "Escape") {
+            setActive(false)
         }
 
 

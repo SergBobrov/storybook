@@ -117,7 +117,7 @@
       <workItem from="1600595824036" duration="370000" />
       <workItem from="1600596287462" duration="6914000" />
       <workItem from="1600686239733" duration="11798000" />
-      <workItem from="1600767439378" duration="3627000" />
+      <workItem from="1600767439378" duration="4957000" />
     </task>
     <task id="LOCAL-00001" summary="first commint">
       <created>1597823578633</created>
@@ -175,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600714635038</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="UseEffect">
+      <created>1600771926289</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1600771926289</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,7 +237,8 @@
     <MESSAGE value="first commint" />
     <MESSAGE value="story book" />
     <MESSAGE value="custom select" />
-    <option name="LAST_COMMIT_MESSAGE" value="custom select" />
+    <MESSAGE value="UseEffect" />
+    <option name="LAST_COMMIT_MESSAGE" value="UseEffect" />
   </component>
   <component name="WindowStateProjectService">
     <state x="638" y="310" key="#ESLint" timestamp="1597673554405">
@@ -241,10 +249,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="535" y="219" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1600690819215" />
-    <state x="393" y="4" key="CommitChangelistDialog2" timestamp="1600714632379">
+    <state x="393" y="4" key="CommitChangelistDialog2" timestamp="1600771923813">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="393" y="4" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1600714632379" />
+    <state x="393" y="4" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1600771923813" />
     <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1600603527539">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
