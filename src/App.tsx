@@ -24,6 +24,7 @@ function App() {
         {title: "Ivan", value: "4"},
     ]
 
+
     return (
         <div className="App">
 
@@ -34,7 +35,7 @@ function App() {
             <UncontrolledOnOff/>
 
 
-            <Accordion onClick={(value)=>{ alert(value)}} items={items} titleValue={"Menu"} collapsed={accordionCollapsed} onclick={()=> setaccordionCollapsed(!accordionCollapsed)}/>
+            {/*<Accordion onClick={(value)=>{ alert(value)}} items={items} titleValue={"Menu"} collapsed={accordionCollapsed} onclick={()=> setaccordionCollapsed(!accordionCollapsed)}/>*/}
 
             <Rating value={ratingValue} onStarClick={setRatingValue} />
 
