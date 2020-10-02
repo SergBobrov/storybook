@@ -5,14 +5,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="762aca97-a018-43cd-8380-105d70b04d3c" name="Default Changelist" comment="first commint">
-      <change afterPath="$PROJECT_DIR$/src/components/UncontrolledAcordion/reducer.test.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UncontrolledAcordion/reducer.tsx" afterDir="false" />
+    <list default="true" id="762aca97-a018-43cd-8380-105d70b04d3c" name="Default Changelist" comment="useReducer">
+      <change afterPath="$PROJECT_DIR$/src/stories/ReactMemo.stories.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/UncontrolledAcordion/UncontrolledAcordion.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UncontrolledAcordion/UncontrolledAcordion.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +98,9 @@
       <workItem from="1599581924262" duration="369000" />
       <workItem from="1599591577989" duration="644000" />
       <workItem from="1599633770283" duration="8909000" />
-      <workItem from="1600962576324" duration="5482000" />
+      <workItem from="1600962576324" duration="5761000" />
+      <workItem from="1600969093342" duration="44000" />
+      <workItem from="1601625392814" duration="2313000" />
     </task>
     <task id="LOCAL-00001" summary="first commint">
       <created>1597823578633</created>
@@ -133,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597823895252</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="useReducer">
+      <created>1600968889432</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600968889432</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,7 +187,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commint" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commint" />
+    <MESSAGE value="useReducer" />
+    <option name="LAST_COMMIT_MESSAGE" value="useReducer" />
   </component>
   <component name="WindowStateProjectService">
     <state x="638" y="310" key="#ESLint" timestamp="1597673554405">
@@ -206,43 +211,43 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="647" y="315" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1597824003906" />
-    <state width="1493" height="427" key="GridCell.Tab.0.bottom" timestamp="1600968536024">
+    <state width="1493" height="427" key="GridCell.Tab.0.bottom" timestamp="1600968901887">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="427" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600968536024" />
+    <state width="1493" height="427" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600968901887" />
     <state width="1515" height="2" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1599224752065" />
-    <state width="1493" height="427" key="GridCell.Tab.0.center" timestamp="1600968536024">
+    <state width="1493" height="427" key="GridCell.Tab.0.center" timestamp="1600968901887">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="427" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600968536024" />
+    <state width="1493" height="427" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600968901887" />
     <state width="1515" height="2" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1599224752064" />
-    <state width="1493" height="427" key="GridCell.Tab.0.left" timestamp="1600968536024">
+    <state width="1493" height="427" key="GridCell.Tab.0.left" timestamp="1600968901887">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="427" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600968536024" />
+    <state width="1493" height="427" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600968901887" />
     <state width="1515" height="2" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1599224752064" />
-    <state width="1493" height="427" key="GridCell.Tab.0.right" timestamp="1600968536024">
+    <state width="1493" height="427" key="GridCell.Tab.0.right" timestamp="1600968901887">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="427" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600968536024" />
+    <state width="1493" height="427" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600968901887" />
     <state width="1515" height="2" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1599224752065" />
     <state x="147" y="66" key="MergeDialog" timestamp="1599223334597">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="147" y="66" key="MergeDialog/0.0.1536.834@0.0.1536.834" timestamp="1599223334597" />
-    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1599591645953">
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1601625405338">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1599591645953" />
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601625405338" />
     <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1597824102665" />
     <state x="492" y="33" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597670100483">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="492" y="33" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.834@0.0.1536.834" timestamp="1597670100483" />
-    <state x="586" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600966165053">
+    <state x="586" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601625408266">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="586" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1600966165053" />
+    <state x="586" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1601625408266" />
     <state x="586" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1599223322091" />
     <state x="478" y="16" width="670" height="801" key="find.popup" timestamp="1597824094212">
       <screen x="0" y="0" width="1536" height="834" />
