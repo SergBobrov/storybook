@@ -6,9 +6,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762aca97-a018-43cd-8380-105d70b04d3c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/memo/UseMemo.stories.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stories/ReactMemo.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/memo/ReactMemo.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/memo/ReactMemo.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/memo/ReactMemo.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/memo/UseMemo.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/memo/UseMemo.stories.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600771926289</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="useMemo">
+      <created>1602512605074</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1602512605074</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,7 +246,8 @@
     <MESSAGE value="story book" />
     <MESSAGE value="custom select" />
     <MESSAGE value="UseEffect" />
-    <option name="LAST_COMMIT_MESSAGE" value="UseEffect" />
+    <MESSAGE value="useMemo" />
+    <option name="LAST_COMMIT_MESSAGE" value="useMemo" />
   </component>
   <component name="WindowStateProjectService">
     <state x="638" y="310" key="#ESLint" timestamp="1597673554405">
@@ -250,10 +258,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="535" y="219" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1600690819215" />
-    <state x="393" y="4" key="CommitChangelistDialog2" timestamp="1600771923813">
+    <state x="393" y="4" key="CommitChangelistDialog2" timestamp="1602512602860">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="393" y="4" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1600771923813" />
+    <state x="393" y="4" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1602512602860" />
     <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1600603527539">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -290,10 +298,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="277" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1600170148503" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1600771159371">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1602512608988">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1600771159371" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1602512608988" />
     <state x="492" y="33" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600710421610">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
