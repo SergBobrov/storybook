@@ -5,9 +5,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="762aca97-a018-43cd-8380-105d70b04d3c" name="Default Changelist" comment="">
+    <list default="true" id="762aca97-a018-43cd-8380-105d70b04d3c" name="Default Changelist" comment="React.memo">
+      <change afterPath="$PROJECT_DIR$/src/components/memo/UseCallBack.stories.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/memo/ReactMemo.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/memo/ReactMemo.stories.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/memo/UseMemo.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/memo/UseMemo.stories.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +25,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/App.tsx" root0="SKIP_INSPECTION" />
@@ -37,9 +38,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Select" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/OnnOff" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -47,30 +47,27 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
-    <property name="ts.external.directory.path" value="G:\dev\study\incubator\projects\yell_playlist\node_modules\typescript\lib" />
-    <property name="vue.rearranger.settings.migration" value="true" />
+    <property name="ts.external.directory.path" value="C:\Users\Sergg\WebstormProjects\it-react-1\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="G:\dev\study\incubator\projects\yell_playlist\src\components\Select" />
-      <recent name="G:\dev\study\incubator\projects\yell_playlist\src\stories" />
-      <recent name="G:\dev\study\incubator\projects\yell_playlist\src\components\UncontrolledRating" />
-      <recent name="G:\dev\study\incubator\projects\yell_playlist\src\components\UncontrolledOnOff" />
+      <recent name="C:\Users\Sergg\WebstormProjects\it-react-1\src\components\OnnOff" />
+      <recent name="C:\Users\Sergg\WebstormProjects\it-react-1\src\components\Rating" />
+      <recent name="G:\dev\study\incubator\projects\yell_playlist\src\components" />
       <recent name="G:\dev\study\incubator\projects\yell_playlist\src\components\UncontrolledAcordion" />
     </key>
     <key name="es6.move.members.recent.items">
+      <recent name="C:\Users\Sergg\WebstormProjects\it-react-1\src\components\UncontrolledAcordion\reducer.tsx" />
       <recent name="G:\dev\study\incubator\projects\01-first-TSproject\it-react-1\src\components\Rating.tsx" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="G:\dev\study\incubator\projects\yell_playlist\src\components\memo" />
-      <recent name="G:\dev\study\incubator\projects\yell_playlist\src\components\UncontrolledOnOff" />
       <recent name="G:\dev\study\incubator\projects\yell_playlist\src\components\UncontrolledRating" />
       <recent name="G:\dev\study\incubator\projects\yell_playlist\src\components" />
       <recent name="G:\dev\study\incubator\projects\01-first-TSproject\it-react-1\src\components\Rating" />
+      <recent name="G:\dev\study\incubator\projects\01-first-TSproject\it-react-1\src\components" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.storybook">
+  <component name="RunManager" selected="npm.start">
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -110,15 +107,13 @@
       <workItem from="1597823220651" duration="480000" />
       <workItem from="1597823712629" duration="423000" />
       <workItem from="1597825387972" duration="10000" />
-      <workItem from="1599751222764" duration="135000" />
-      <workItem from="1600107306526" duration="853000" />
-      <workItem from="1600169973490" duration="7677000" />
-      <workItem from="1600178118701" duration="987000" />
-      <workItem from="1600179119432" duration="1743000" />
-      <workItem from="1600595824036" duration="370000" />
-      <workItem from="1600596287462" duration="6914000" />
-      <workItem from="1600686239733" duration="11798000" />
-      <workItem from="1600767439378" duration="4957000" />
+      <workItem from="1599574487139" duration="7055000" />
+      <workItem from="1599581924262" duration="369000" />
+      <workItem from="1599591577989" duration="644000" />
+      <workItem from="1599633770283" duration="8909000" />
+      <workItem from="1600962576324" duration="5761000" />
+      <workItem from="1600969093342" duration="44000" />
+      <workItem from="1601625392814" duration="2313000" />
     </task>
     <task id="LOCAL-00001" summary="first commint">
       <created>1597823578633</created>
@@ -148,49 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597823895252</updated>
     </task>
-    <task id="LOCAL-00005" summary="first commint">
-      <created>1600179770017</created>
+    <task id="LOCAL-00005" summary="useReducer">
+      <created>1600968889432</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1600179770017</updated>
+      <updated>1600968889432</updated>
     </task>
-    <task id="LOCAL-00006" summary="story book">
-      <created>1600595907443</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1600595907443</updated>
-    </task>
-    <task id="LOCAL-00007" summary="custom select">
-      <created>1600712416649</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1600712416649</updated>
-    </task>
-    <task id="LOCAL-00008" summary="custom select">
-      <created>1600714635038</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1600714635038</updated>
-    </task>
-    <task id="LOCAL-00009" summary="UseEffect">
-      <created>1600771926289</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1600771926289</updated>
-    </task>
-    <task id="LOCAL-00010" summary="useMemo">
-      <created>1602512605074</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1602512605074</updated>
-    </task>
-    <option name="localTasksCounter" value="11" />
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,33 +199,23 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$/.." />
-    </ignored-roots>
     <MESSAGE value="first commint" />
-    <MESSAGE value="story book" />
-    <MESSAGE value="custom select" />
-    <MESSAGE value="UseEffect" />
-    <MESSAGE value="useMemo" />
-    <option name="LAST_COMMIT_MESSAGE" value="useMemo" />
+    <MESSAGE value="useReducer" />
+    <option name="LAST_COMMIT_MESSAGE" value="useReducer" />
   </component>
   <component name="WindowStateProjectService">
     <state x="638" y="310" key="#ESLint" timestamp="1597673554405">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="638" y="310" key="#ESLint/0.0.1536.834@0.0.1536.834" timestamp="1597673554405" />
-    <state x="535" y="219" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600690819215">
+    <state x="535" y="219" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597671873782">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="535" y="219" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1600690819215" />
-    <state x="393" y="4" key="CommitChangelistDialog2" timestamp="1602512602860">
+    <state x="535" y="219" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1597671873782" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1597825395095">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="393" y="4" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1602512602860" />
-    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1600603527539">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1600603527539" />
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1597825395095" />
     <state x="593" y="337" key="Github.CreateGistDialog" timestamp="1597823791041">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -274,41 +224,43 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="647" y="315" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1597824003906" />
-    <state width="1515" height="365" key="GridCell.Tab.0.bottom" timestamp="1602505690894">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state width="1493" height="174" key="GridCell.Tab.0.bottom" timestamp="1603038060316">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="365" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1602505690894" />
-    <state width="1515" height="365" key="GridCell.Tab.0.center" timestamp="1602505690894">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state width="1493" height="174" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603038060316" />
+    <state width="1515" height="2" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1599224752065" />
+    <state width="1493" height="174" key="GridCell.Tab.0.center" timestamp="1603038060316">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="365" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1602505690894" />
-    <state width="1515" height="365" key="GridCell.Tab.0.left" timestamp="1602505690894">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state width="1493" height="174" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603038060316" />
+    <state width="1515" height="2" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1599224752064" />
+    <state width="1493" height="174" key="GridCell.Tab.0.left" timestamp="1603038060315">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="365" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1602505690894" />
-    <state width="1515" height="365" key="GridCell.Tab.0.right" timestamp="1602505690894">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state width="1493" height="174" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603038060315" />
+    <state width="1515" height="2" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1599224752064" />
+    <state width="1493" height="174" key="GridCell.Tab.0.right" timestamp="1603038060316">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="365" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1602505690894" />
+    <state width="1493" height="174" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603038060316" />
+    <state width="1515" height="2" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1599224752065" />
     <state x="147" y="66" key="MergeDialog" timestamp="1599223334597">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="147" y="66" key="MergeDialog/0.0.1536.834@0.0.1536.834" timestamp="1599223334597" />
-    <state x="277" y="62" key="SettingsEditor" timestamp="1600170148503">
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1601625405338">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601625405338" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1597824102665" />
+    <state x="492" y="33" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597670100483">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="277" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1600170148503" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1602512608988">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state x="492" y="33" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.834@0.0.1536.834" timestamp="1597670100483" />
+    <state x="586" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601625408266">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1602512608988" />
-    <state x="492" y="33" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600710421610">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="492" y="33" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.834@0.0.1536.834" timestamp="1600710421610" />
-    <state x="586" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599223322091">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
+    <state x="586" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1601625408266" />
     <state x="586" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1599223322091" />
     <state x="478" y="16" width="670" height="801" key="find.popup" timestamp="1597824094212">
       <screen x="0" y="0" width="1536" height="834" />
@@ -318,9 +270,9 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="410" y="144" width="700" height="530" key="recent.locations.popup/0.0.1536.834@0.0.1536.834" timestamp="1597670139586" />
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1602507234383">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1603038876492">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1602507234383" />
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1603038876492" />
   </component>
 </project>

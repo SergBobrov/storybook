@@ -1,7 +1,7 @@
 import React, {useMemo, useState} from "react";
 
 export default {
-    title: 'useMemeo'
+    title: 'useMemo'
 }
 
 
@@ -77,3 +77,5 @@ export const HelpsToReactMemo = () => {
         </>
     )
 };
+
+
