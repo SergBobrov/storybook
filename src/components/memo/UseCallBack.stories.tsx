@@ -1,4 +1,4 @@
-import React, {useMemo, useState} from "react";
+import React, {useCallback, useMemo, useState} from "react";
 
 export default {
     title: 'useCallback'
@@ -35,9 +35,16 @@ export const LikeUseCallBack = () => {
         setBooks([...books, 'Angular'])
     }
 
-    const MemoziedAddBook = useMemo(() => {
+    const MemoziedAddBook2 = useMemo(() => {
         return addBook
     }, [books])
+
+    const MemoziedAddBook = useCallback(() => {
+        setBooks([...books, 'Angular'])
+
+    }, [books])
+
+
     return (
         <>
             <button onClick={() => (setCounter(counter + 1))}>+</button>
